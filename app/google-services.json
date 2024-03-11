@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1065608507666",
+    "project_id": "all-noor-denver",
+    "storage_bucket": "all-noor-denver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065608507666:android:c86058e2a272e41bb703cb",
+        "android_client_info": {
+          "package_name": "com.alnoor.tv.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065608507666-4jgri8gjdm18ecjhmi2fnch1ujv8llgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRI5-HUfYlhqmT1cyoTgnS4bsPjPIs0IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065608507666-4jgri8gjdm18ecjhmi2fnch1ujv8llgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065608507666:android:b48c41d271bc2659b703cb",
+        "android_client_info": {
+          "package_name": "com.prayertimes.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065608507666-4jgri8gjdm18ecjhmi2fnch1ujv8llgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRI5-HUfYlhqmT1cyoTgnS4bsPjPIs0IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065608507666-4jgri8gjdm18ecjhmi2fnch1ujv8llgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
